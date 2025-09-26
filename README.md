@@ -18,6 +18,8 @@ Cross-platform: Works on Linux, macOS, and Windows
 Clone the repository and build it:
 
 git clone https://github.com/Daniel-The-Techy/file-organizer.git
+
+
 cd file-organizer
 cargo build --release
 
